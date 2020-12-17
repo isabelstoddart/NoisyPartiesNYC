@@ -14,6 +14,8 @@ My first iteration was a sketch of what I invisioned the final product to look l
 ### Iteration 2
 My second iteration turned my initial sketch into code. 
 
-![](seconditer.png)
+![](iter2pic1.png)
+
+![](iter2pic2.png)
 
 You can find the current iteration of this project at: https://isabelstoddart.github.io/NoisyPartiesNYC/
