@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+
+<!-- Load d3.js and the geo projection plugin -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create an element where the map will take place -->
+<div id="my_dataviz"></div>
+
+<style>
+
+  @font-face{
+        src: url(dnk.ttf);
+        font-family: DNK;
+    }  
+
+  body{
+    font-family: DNK;
+    color:black;
+    background-color:#d3d3d3;
+    vertical-align: center;
+    text-align:center;
+    justify-content: center;
+  }
+
+  g{
+    font-family:sans-serif;
+  }
+  text{
+    font-family:sans-serif;
+    font-size:18px;
+  }
+
+  h2{
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top:20px;
+  }
+
+  h1{
+    font-size:40px;
+    margin-top:20px;
+  }
+
+</style>
+
+<body>
+    <h1>Noisy Parties in NYC</h1>
+    <h2>Evolution of 311 service requests tagged Loud Music/Party in 2019 split up by month. The 259,658 service requests are grouped by borough.</h2>
+
+    <script src="main.js"></script>
+</body>
+</html>
