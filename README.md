@@ -1,6 +1,8 @@
 # Noisy Parties in NYC
 A project completed for Data Visualization and Information Aesthetics at Parsons School of Design
 
+[Live Project](https://isabelstoddart.github.io/NoisyPartiesNYC/)
+
 ### Goal
 The goal of this project was to visualize 311 calls in NYC. I decided to visualize just the calls tagged with the complaint "Loud Music/Party" to investigate when the most loud music complaints occur. I looked at complaints per month in the year 2019. I wanted to stay away from 2020 because I assumed the complaints could be biased due to the pandemic, so I decided to use 2019. The complaints are split up into the 5 boroughs. 
 
@@ -14,4 +16,4 @@ My second iteration turned my initial sketch into code.
 
 ![](seconditer.png)
 
-You can find the current iteration of this project at: 
+You can find the current iteration of this project at: https://isabelstoddart.github.io/NoisyPartiesNYC/
